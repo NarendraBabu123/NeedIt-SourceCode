@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_item_stream_m2m_master_item">
+    <sys_sg_item_stream_m2m_master_item action="INSERT_OR_UPDATE">
+        <item_stream display_value="NeedIT Item Stream">377dc8a097999110ead8fb000153aff1</item_stream>
+        <master_item display_value="NeedIT master_item">fb7dc8a097999110ead8fb000153aff2</master_item>
+        <sys_class_name>sys_sg_item_stream_m2m_master_item</sys_class_name>
+        <sys_created_by>NarendraBabu.Madala</sys_created_by>
+        <sys_created_on>2022-08-10 09:28:38</sys_created_on>
+        <sys_id>bb7dc8a097999110ead8fb000153aff3</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name/>
+        <sys_package display_value="NeedIt" source="80accc6097999110ead8fb000153afa7">80accc6097999110ead8fb000153afa7</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="NeedIt">80accc6097999110ead8fb000153afa7</sys_scope>
+        <sys_update_name>sys_sg_item_stream_m2m_master_item_bb7dc8a097999110ead8fb000153aff3</sys_update_name>
+        <sys_updated_by>NarendraBabu.Madala</sys_updated_by>
+        <sys_updated_on>2022-08-10 09:28:38</sys_updated_on>
+    </sys_sg_item_stream_m2m_master_item>
+</record_update>

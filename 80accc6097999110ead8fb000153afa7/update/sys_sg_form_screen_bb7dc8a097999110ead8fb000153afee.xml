@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_form_screen">
+    <sys_sg_form_screen action="INSERT_OR_UPDATE">
+        <alert/>
+        <available_offline>false</available_offline>
+        <data_item/>
+        <description/>
+        <dynamic_prefetch_count/>
+        <empty_state/>
+        <fetch_type>not_required</fetch_type>
+        <filter/>
+        <hide_filters>false</hide_filters>
+        <hide_screen_name>false</hide_screen_name>
+        <icon display_value="icon-Address-Book">6f7d446097999110ead8fb000153af57</icon>
+        <item_view/>
+        <name>NeedIT Form Screen</name>
+        <override_context_with_data_item>false</override_context_with_data_item>
+        <roles_override/>
+        <segments_height>medium</segments_height>
+        <segments_min_width>medium</segments_min_width>
+        <sys_class_name>sys_sg_form_screen</sys_class_name>
+        <sys_created_by>NarendraBabu.Madala</sys_created_by>
+        <sys_created_on>2022-08-10 09:28:38</sys_created_on>
+        <sys_id>bb7dc8a097999110ead8fb000153afee</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>NeedIT Form Screen</sys_name>
+        <sys_package display_value="NeedIt" source="80accc6097999110ead8fb000153afa7">80accc6097999110ead8fb000153afa7</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="NeedIt">80accc6097999110ead8fb000153afa7</sys_scope>
+        <sys_update_name>sys_sg_form_screen_bb7dc8a097999110ead8fb000153afee</sys_update_name>
+        <sys_updated_by>NarendraBabu.Madala</sys_updated_by>
+        <sys_updated_on>2022-08-10 09:28:38</sys_updated_on>
+        <table>u_needit</table>
+        <use_view_config>true</use_view_config>
+        <view_config display_value="NeedIT Detail Screen View Config">b77dc8a097999110ead8fb000153afd3</view_config>
+    </sys_sg_form_screen>
+    <sys_translated_text action="delete_multiple" query="documentkey=bb7dc8a097999110ead8fb000153afee"/>
+</record_update>

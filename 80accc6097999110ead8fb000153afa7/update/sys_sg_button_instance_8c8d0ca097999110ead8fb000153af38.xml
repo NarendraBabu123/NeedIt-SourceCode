@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_button_instance">
+    <sys_sg_button_instance action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <button display_value="Edit Button (NeedIT)">c08d0ca097999110ead8fb000153af27</button>
+        <color_theme/>
+        <description/>
+        <disable_offline>false</disable_offline>
+        <field_name/>
+        <icon/>
+        <label>Edit</label>
+        <location>top</location>
+        <name>Edit (NeedIT)</name>
+        <order/>
+        <parent>bb7dc8a097999110ead8fb000153afee</parent>
+        <parent_table>sys_sg_form_screen</parent_table>
+        <sys_class_name>sys_sg_button_instance</sys_class_name>
+        <sys_created_by>NarendraBabu.Madala</sys_created_by>
+        <sys_created_on>2022-08-10 09:28:39</sys_created_on>
+        <sys_id>8c8d0ca097999110ead8fb000153af38</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Edit (NeedIT)</sys_name>
+        <sys_package display_value="NeedIt" source="80accc6097999110ead8fb000153afa7">80accc6097999110ead8fb000153afa7</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="NeedIt">80accc6097999110ead8fb000153afa7</sys_scope>
+        <sys_update_name>sys_sg_button_instance_8c8d0ca097999110ead8fb000153af38</sys_update_name>
+        <sys_updated_by>NarendraBabu.Madala</sys_updated_by>
+        <sys_updated_on>2022-08-10 09:28:39</sys_updated_on>
+        <table/>
+    </sys_sg_button_instance>
+    <sys_translated_text action="delete_multiple" query="documentkey=8c8d0ca097999110ead8fb000153af38"/>
+</record_update>
